@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanieleMusu
+- 👀 I’m interested in learning code, improving my skills
+- 🌱 I’m currently learning SQl as well as phyton on CodeAcademy
+- 💞️ I’m looking to collaborate on any type of coding to improve on my skills as well as learn from others
+- 📫 How to reach me, you can reach me at danielemusu@gmail.com
